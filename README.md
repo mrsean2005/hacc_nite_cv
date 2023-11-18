@@ -8,7 +8,7 @@ This document scanner project is a Python-based tool that transforms images of d
 1. [Sean Mathen Mathew](https://github.com/mrsean2005/)
 2. [Bharath R Padmanabh](https://github.com/MrWonder2/)
 ## Link to product walkthrough
-[link to video](yotube.com/watch?v=)
+[link to video](https://www.youtube.com/watch?v=Z7xmvlP1ugk)
 ## How it Works ?
 
 1. Corner Selection:
